@@ -218,7 +218,7 @@ def main() -> None:
     server = create_server()
     
     try:
-        server.run()  # FastMCP manages its own event loop
+        server.run(transport="streamable-http")  # FastMCP manages its own event loop
     except KeyboardInterrupt:
         logging.info("Server interrupted by user")
     except Exception as e:
