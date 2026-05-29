@@ -1,5 +1,7 @@
 # KiCad AI Assistant
 
+**NOTE** This repo is **ARCHIVED** . Please go to [KiCad-AI-Assistant](https://github.com/paul356/KiCad-AI-Assistant) for latest code.
+
 KiCad AI Assistant is a KiCad action plugin that embeds an LLM-powered chat panel directly inside KiCad. It runs a built-in [MCP](https://modelcontextprotocol.io/) server and exposes a rich set of tools so the LLM can read and edit your schematics and PCB layouts through natural-language conversation.
 
 Tested on **KiCad 10.0 / Linux**.

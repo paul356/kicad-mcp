@@ -1,5 +1,7 @@
 # KiCad AI Assistant
 
+**提示** 这个项目已经进入 **转存状态** . 最新代码请查看 [KiCad-AI-Assistant](https://github.com/paul356/KiCad-AI-Assistant) .
+
 KiCad AI Assistant 是一个 KiCad 动作插件，在 KiCad 内部直接嵌入了由大语言模型（LLM）驱动的聊天面板。插件内置 [MCP](https://modelcontextprotocol.io/) 服务器，并暴露了丰富的工具集，让 LLM 能够通过自然语言对话读取和编辑原理图与 PCB。
 
 已在 **KiCad 10.0 / Linux** 上验证。
